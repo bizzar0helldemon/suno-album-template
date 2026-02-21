@@ -66,7 +66,7 @@ Each track goes through:
 
 ## Requirements
 
-- A [Suno](https://suno.com) subscription (Pro or Premier)
+- A [Suno](https://suno.com) subscription (Pro or Premier) — [sign up with my invite link](https://suno.com/invite/@srco10956) and we both get 250 free credits after you create 10 songs
 - [Claude](https://claude.ai) or [Claude Code](https://docs.anthropic.com/en/docs/claude-code) for the AI-assisted workflow
 - A text editor for customizing templates
 
